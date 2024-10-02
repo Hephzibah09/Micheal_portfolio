@@ -418,8 +418,6 @@ Hero
 	}
 
 	.hero-photo {
-		-webkit-filter: grayscale(85%);
-		        filter: grayscale(85%);
 		max-width: 25rem;
 		max-height: 30rem;
 		-o-object-fit: cover;
